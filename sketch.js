@@ -8,7 +8,7 @@ let rect2 = 24
 let gravityA
 let angleA = 0
 let angleV = 0
-let multiplier = 0.95
+let multiplier = 0.9981
 let gravityNumber = 0.5
 let angle
 let angleConst
